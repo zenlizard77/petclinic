@@ -38,7 +38,7 @@ The plugin section is found under the Manage Jenkins Menu.
 Additionally under Manage Jenkins --> Tools make sure to configure the Maven, JDK, Docker, Git, and JFrog sections to install automatically or are configured as you wish.
 
 ### Credentials:
-Make sure to enter credentials for the following:
+The following credentials need to be added to Jenkins:
 ```
 Artifactory
 DockerHub
