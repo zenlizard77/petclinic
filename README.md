@@ -1,7 +1,6 @@
 # Overview:
 
-This project is a proof of concept to use Jenkins and Artifactory to build, test, and create a container for the Spring Boot Pet Clinic Application
-
+This proof-of-concept project uses a Jenkins pipeline to build, test, create a container, and upload the Spring Boot Pet Clinic Application to Artifactory for easy use.
 
 ## Quick Start:
 
