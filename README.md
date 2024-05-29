@@ -1,4 +1,4 @@
-# Overview:
+ # Overview:
 
 This proof-of-concept project uses a Jenkins pipeline to build, test, create a container, and upload the Spring Boot Pet Clinic Application to Artifactory for easy use.
 
@@ -18,7 +18,7 @@ For Kubernetes via kubectl:
 kubectl create ns petclinic
 kubectl apply -f petclinic.yaml -n petclinic
 ```
-You might need to edit the petclinic.yaml file if you need to change to clusterIP from LoadBalancer.
+You might need to edit the petclinic.yaml file if you want to change to clusterIP from LoadBalancer.
 
 ## Preparing Jenkins
 
