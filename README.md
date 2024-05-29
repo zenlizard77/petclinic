@@ -46,7 +46,7 @@ JFrog
 ```
 ## Pipeline
 
-Once things are ready in Jenkins you can deploy a PipeLine using the pipeline script found below and in the file Petclinic-JenkinsPOC.pipeline. It contains the steps to download, compile, test, build the container, scan, and upload the image into Artifactory. I have also included the output from a successful run in petclinic-pipeline.output file.
+Once things are ready in Jenkins you can deploy a PipeLine using the pipeline script found below or from the file Petclinic-JenkinsPOC.pipeline. It contains the steps to download, compile, test, build the container, scan, and upload the image into Artifactory. I have also included the output from a successful run in the petclinic-pipeline.output file.
 
 ```
 pipeline {
