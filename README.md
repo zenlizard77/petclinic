@@ -35,7 +35,7 @@ Docker (API, Commons, and Pipeline)
 The plugin section is found under the Manage Jenkins Menu.
 
 ### Tools:
-Additionally under Manage Jenkins --> Tools make sure to configure the Maven, JDK, Docker, Git, and JFrog sections are set to install automatically or are configured as you wish.
+Additionally under Manage Jenkins --> Tools make sure to configure the Maven, JDK, Docker, Git, and JFrog sections to install automatically or are configured as you wish.
 
 ### Credentials:
 Make sure to enter credentials for the following:
