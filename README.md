@@ -10,6 +10,7 @@ For Docker:
 ```
 docker run -d --name clinic -p 8080:8080 goodner.jfrog.io/petclinic-docker/pet-clinicapp:latest
 ```
+It can be accessed via http://localhost:8080
 
 For Kubernetes via kubectl:
 
